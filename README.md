@@ -21,3 +21,4 @@ pyzbar
 cv2
 numpy
 PIL
+
