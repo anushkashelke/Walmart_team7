@@ -10,22 +10,8 @@ If a barcode is not at all generated from the image, it means that the image is 
 
 Tech Stacks:
 
-Python
-
-Google Colab
-
-Streamlit
+Python,Google Colab,Streamlit
 
 
-Python Libraries:
-
-pytesseract
-
-pyzbar
-
-cv2
-
-numpy
-
-PIL
+Python Libraries: pytesseract,pyzbar,cv2,numpy,PIL
 
